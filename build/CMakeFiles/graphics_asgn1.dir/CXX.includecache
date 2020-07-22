@@ -1,0 +1,294 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ball.cpp
+ball.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ball.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ball.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/bomb.cpp
+bomb.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/bomb.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/bomb.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/cannon.cpp
+cannon.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/cannon.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/cannon.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/color.cpp
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/dashboard.cpp
+dashboard.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/dashboard.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/dashboard.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+digit.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/digit.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/digit.cpp
+digit.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/digit.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/digit.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+line.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/line.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/fire_ball.cpp
+fire_ball.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/fire_ball.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/fire_ball.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ground.cpp
+ground.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ground.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ground.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/hill.cpp
+hill.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/hill.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/hill.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/input.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/line.cpp
+line.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/line.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/line.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.cpp
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+timer.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/timer.h
+plane.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/plane.h
+ground.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ground.h
+hill.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/hill.h
+ring.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ring.h
+missile.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/missile.h
+bomb.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/bomb.h
+cannon.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/cannon.h
+fire_ball.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/fire_ball.h
+segmentdisplay.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/segmentdisplay.h
+parachute.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/parachute.h
+power_up.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/power_up.h
+dashboard.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/dashboard.h
+unistd.h
+-
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/missile.cpp
+missile.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/missile.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/missile.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/nonedit.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/other_handlers.cpp
+iostream
+-
+cmath
+-
+fstream
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtx/transform.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/parachute.cpp
+parachute.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/parachute.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/parachute.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/plane.cpp
+plane.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/plane.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/plane.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/power_up.cpp
+power_up.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/power_up.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/power_up.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ring.cpp
+ring.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ring.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/ring.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/segmentdisplay.cpp
+segmentdisplay.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/segmentdisplay.h
+main.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/main.h
+cstring
+-
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/segmentdisplay.h
+digit.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/digit.h
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/timer.cpp
+timer.h
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/timer.h
+GLFW/glfw3.h
+-
+
+/home/jaiganeshji/Downloads/GraphicsAssignment/Graphics Plane Game/src/timer.h
+
