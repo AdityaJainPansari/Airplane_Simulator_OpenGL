@@ -5,7 +5,8 @@
 # Running the game
 * To run the game enter these command in the directory of the game:
 		run	./graphics_asgn1 in directory build 
-#Rules
+		
+# Rules
 * You can use missiles/bombs to kill enemies (cannons and parachutes).
 * A powerup in the form of Green parachute if taken provides health regeneration.
 * A powerup in the form of Brown parachute if taken provides fuel regenration.
