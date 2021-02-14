@@ -33,6 +33,11 @@
 * Health goes ZERO
 * Fuel Tank goes EMPTY
 
+# Camera Views
+* Plane View
+	This is a view from the plane’s position where only a part of the world in front is visible. In other words, in this view, we see what the plane sees, as if we were the plane.
+* Fuel Tank goes EMPTY
+
 # Bonus
 * Sounds have been added
 * Compass on dashboard
@@ -51,6 +56,7 @@
 | Fire Missile    | Left Mouse click|
 | Drop Bomb       |Right Mouse click|
 | Zoom In-Zoom Out|   Mouse Scroll  |
+| Cam-view Toggle |       C         |
 | Quit            |       Esc       |
 
 		SO NOW IT'S TIME TO PLAY!!
