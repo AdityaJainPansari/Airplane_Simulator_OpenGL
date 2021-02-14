@@ -34,9 +34,29 @@
 * Fuel Tank goes EMPTY
 
 # Camera Views
-* Plane View
-	This is a view from the plane’s position where only a part of the world in front is visible. In other words, in this view, we see what the plane sees, as if we were the plane.
-* Fuel Tank goes EMPTY
+* Cockpit View (Pilot's Eye)
+  * This is a view from inside the plane’s cockpit which is from inside the front wind-shield. Only a part of the world in front is visible. In other words, in this view, we see what the pilot sees, as if we were the pilot.
+  * It is easy to aim a Missile using this view.
+  ![Cockpit_View](./images/cockpit1.png?raw=true)
+  ![Cockpit_View](./images/cockpit2.png?raw=true)
+* Top View (Bird's Eye)
+  * This is a top-down view, as if we were looking vertically downwards from a position in the sky. This gives a clear picture of the path.
+  * It is easy to aim a Drop-Bomb using this view.
+  ![Top_View](./images/birds_eye_view_top_view.png?raw=true)
+* Tower View
+  * Here, the camera is sitting on a tower, to the side of the plane of playing, observing it at an angle.
+  ![Tower_View](./images/tower_view1.png?raw=true)
+  ![Tower_View](./images/tower_view2.png?raw=true)
+* Follow-cam View
+  * This is a view of the plane and the region in front of it from a location behind and above it, as if the camera is following the plane.
+  ![Follow-cam_View](./images/follow_cam_view1.png?raw=true)
+  ![Follow-cam_View](./images/follow_cam_view2.png?raw=true)
+* Helicopter-cam View
+  * Here, the camera is movable with the mouse in an intuitive manner. Clicking and dragging should change the look angle, the up vector should remain up always,and the scroll wheel will move the camera closer or farther away from the scene.up vector should remain up always, and the scroll wheel will move the camera closer or farther away from the scene.
+* Fixed-cam View
+  * The Camera is fixed at the starting point of the game.
+  ![Fixed-cam_View](./images/fixed_camera1.png?raw=true)
+  ![Fixed-cam_View](./images/fixed_camera2.png?raw=true)
 
 # Bonus
 * Sounds have been added
