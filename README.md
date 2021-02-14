@@ -33,7 +33,7 @@
 * Health goes ZERO
 * Fuel Tank goes EMPTY
 
-#Bonus
+# Bonus
 * Sounds have been added
 * Compass on dashboard
 * Segment Display for score
